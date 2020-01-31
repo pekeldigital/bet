@@ -1,0 +1,14 @@
+{
+  "name": "api-due",
+  "version": "1.0.0",
+  "description": "API DUE",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
